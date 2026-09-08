@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
-a href="https://www.youtube.com/@youtechnical">
+<a href="https://www.youtube.com/@youtechnical">
 <img src="https://img.shields.io/badge/YouTube-YouTechnical-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
