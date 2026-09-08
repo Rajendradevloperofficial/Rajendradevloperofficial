@@ -41,7 +41,7 @@
 
 ---
 
-## 🧑‍💻 Professional Profile
+## 🧑‍💻 Profile
 
 <table>
 <tr>
@@ -60,7 +60,7 @@ I focus on creating **clean, scalable and production-ready applications**.
 
 <td width="50%" valign="top">
 
-### 🚀 Professional Strengths
+### 🚀 Strengths
 
 - 🐍 Python Backend Development
 - 🎯 Django Development
