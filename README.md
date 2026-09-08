@@ -21,10 +21,10 @@
 </a>
 
 <a href="https://resumemitra.com">
-<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/ResumeMitra-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 <a href="https://jobexcello.com">
-<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Jobexcello-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://www.youtube.com/@youtechnical">
@@ -111,7 +111,7 @@ I focus on creating **clean, scalable and production-ready applications**.
 
 <br>
 
-`MySQL` `SQL` `Database Design`
+`MySQL` `SQL` `Database Design` `PostgreSQL` `MongoDB`
 
 <br><br>
 
@@ -125,103 +125,6 @@ I focus on creating **clean, scalable and production-ready applications**.
 
 </div>
 
----
-
-# ⚙️ What I Build
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🌐 Web Applications
-
-Full-stack business and web applications using Python, Django and React.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔌 REST APIs
-
-Scalable REST APIs and backend services using DRF and FastAPI.
-
-</td>
-
-<td align="center" width="33%">
-
-### ☁️ Cloud Solutions
-
-Containerized and cloud-ready applications using Docker and GCP.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Development
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏗️ Full Stack Development
-
-Developing complete web applications from backend architecture to frontend interfaces.
-
-**Technologies**
-
-`Python` `Django` `React.js` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔌 API Engineering
-
-Building structured, secure and maintainable REST APIs.
-
-**Technologies**
-
-`DRF` `FastAPI` `Python`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗄️ Database Development
-
-Designing database-driven applications with efficient data management.
-
-**Technologies**
-
-`MySQL` `SQL` `Django`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 Deployment
-
-Containerizing applications and working with cloud deployment.
-
-**Technologies**
-
-`Docker` `GCP` `GitHub`
-
-</td>
-
-</tr>
-</table>
-
----
 
 <div align="center">
 
@@ -286,8 +189,8 @@ Containerizing applications and working with cloud deployment.
 <img src="https://img.shields.io/badge/LinkedIn-RAJENDRA%20KUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://agriyantram.com">
-<img src="https://img.shields.io/badge/Portfolio%20%2F%20Website-AGRIYANTRAM-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+<a href="https://resumemitra.com">
+<img src="https://img.shields.io/badge/Portfolio%20%2F%20Website-RESUMEMITRA-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 </div>
