@@ -4,9 +4,9 @@
 <!--                    ANIMATED PROFILE HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Rajendradevloperofficial/Rajendradevloperofficial/main/assets/rajendra-github-header.gif" width="100%" alt="RAJENDRA KUMAR GUPTA - Python Full Stack Developer">
-
-<br><br>
+<img src="https://raw.githubusercontent.com/Rajendradevloperofficial/Rajendradevloperofficial/main/rajendra-github-header.gif"
+     width="100%"
+     alt="RAJENDRA KUMAR GUPTA - Python Full Stack Developer">
 
 <h2>🐍 Python Full Stack Developer | Backend & API Engineer</h2>
 
