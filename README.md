@@ -37,8 +37,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Rajendradevloperofficial&label=PROFILE%20VISITORS&style=for-the-badge&color=00C853">
-
 </div>
 
 ---
