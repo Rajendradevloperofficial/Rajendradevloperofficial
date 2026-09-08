@@ -1,70 +1,158 @@
 <div align="center">
 
-# 👋 Hi, I'm RAJENDRA KUMAR GUPTA
+# 👋 RAJENDRA KUMAR GUPTA
 
-### 🐍 Python Full Stack Developer | Django | DRF | FastAPI
+### 🐍 Python Full Stack Developer | Backend & API Engineer
 
-Building scalable, secure and modern web applications with Python and JavaScript.
+**Django • DRF • FastAPI • React.js • MySQL • Docker • GCP**
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-Full%20Stack%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-DRF-FF1709?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+DRF+%7C+FastAPI;React.js+%7C+JavaScript;MySQL+%7C+Docker+%7C+GCP;Building+Scalable+Web+Applications" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React.js-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<a href="https://github.com/Rajendradevloperofficial">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/rajendra-kumar-gupta-71a24819b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://resumemitra.com">
+<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="https://jobexcello.com">
+<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+a href="https://www.youtube.com/@youtechnical">
+<img src="https://img.shields.io/badge/YouTube-YouTechnical-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/rajendra.raj.31521301/directory_personal_details">
+<img src="https://img.shields.io/badge/Facebook-Rajendra%20Kumar-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Rajendradevloperofficial&label=PROFILE%20VISITORS&style=for-the-badge&color=00C853">
 
 </div>
+
+---
+
+## 🧑‍💻 Professional Profile
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 About Me
+
+I am a **Python Full Stack Developer** specializing in backend development, REST APIs and modern web applications.
+
+My core development stack includes **Python, Django, Django REST Framework, FastAPI, JavaScript and React.js**.
+
+I focus on creating **clean, scalable and production-ready applications**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Professional Strengths
+
+- 🐍 Python Backend Development
+- 🎯 Django Development
+- 🔌 REST API Development
+- ⚡ FastAPI
+- ⚛️ React.js
+- 🗄️ MySQL
+- 🐳 Docker
+- ☁️ Google Cloud Platform
+- 🔧 Git & GitHub
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Skills
+# 🛠️ TECH SKILLS
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,mysql,git,github,gcp,docker,html,css&perline=12" />
+### 🐍 Backend & API
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+
+<br>
+
+`Python` `Django` `Django REST Framework` `FastAPI`
+
+<br><br>
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=js,react,html,css" />
+
+<br>
+
+`JavaScript` `React.js` `HTML5` `CSS3`
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br>
+
+`MySQL` `SQL` `Database Design`
+
+<br><br>
+
+### ☁️ Cloud • DevOps • Tools
+
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vscode" />
+
+<br>
+
+`Docker` `Google Cloud Platform` `Git` `GitHub` `VS Code`
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ⚙️ What I Build
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 💼 Professional Profile
+### 🌐 Web Applications
 
-- 🐍 Python Full Stack Developer
-- 🎯 Django & Django REST Framework Developer
-- ⚡ FastAPI Developer
-- ⚛️ React.js Developer
-- 🗄️ MySQL Database Developer
-- ☁️ Google Cloud Platform
-- 🐳 Docker & Containerization
-- 🔧 Git & GitHub
+Full-stack business and web applications using Python, Django and React.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🚀 What I Do
+### 🔌 REST APIs
 
-- 🌐 Build full-stack web applications
-- 🔌 Develop RESTful APIs
-- ⚙️ Build scalable backend systems
-- 🗄️ Design and manage databases
-- ☁️ Deploy applications on cloud platforms
-- 🐳 Containerize applications with Docker
-- 💡 Solve real-world software problems
+Scalable REST APIs and backend services using DRF and FastAPI.
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud Solutions
+
+Containerized and cloud-ready applications using Docker and GCP.
 
 </td>
 
@@ -73,116 +161,82 @@ Building scalable, secure and modern web applications with Python and JavaScript
 
 ---
 
-# 💻 Technology Stack
+# 🚀 Featured Development
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### 🐍 Backend
+<td width="50%" valign="top">
 
-Python  
-Django  
-Django REST Framework  
-FastAPI
+### 🏗️ Full Stack Development
 
-</td>
+Developing complete web applications from backend architecture to frontend interfaces.
 
-<td width="25%" align="center">
+**Technologies**
 
-### ⚛️ Frontend
-
-JavaScript  
-React.js  
-HTML5  
-CSS3
+`Python` `Django` `React.js` `MySQL`
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🗄️ Database
+### 🔌 API Engineering
 
-MySQL  
-SQL  
-Database Design
+Building structured, secure and maintainable REST APIs.
+
+**Technologies**
+
+`DRF` `FastAPI` `Python`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database Development
+
+Designing database-driven applications with efficient data management.
+
+**Technologies**
+
+`MySQL` `SQL` `Django`
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### ☁️ DevOps
+### 🐳 Deployment
 
-Docker  
-GCP  
-Git  
-GitHub
+Containerizing applications and working with cloud deployment.
+
+**Technologies**
+
+`Docker` `GCP` `GitHub`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
 
-<table>
-<tr>
+# 📊 DEVELOPMENT STACK
 
-<td width="50%" valign="top">
+| Category | Technologies |
+|:---:|:---|
+| 🐍 **Backend** | Python • Django • DRF • FastAPI |
+| ⚛️ **Frontend** | JavaScript • React.js • HTML • CSS |
+| 🗄️ **Database** | MySQL • SQL |
+| ☁️ **Cloud** | Google Cloud Platform |
+| 🐳 **DevOps** | Docker |
+| 🔧 **Tools** | Git • GitHub • VS Code |
 
-## 🌐 Full Stack Web Applications
-
-Developing modern web applications using Python, Django, REST APIs and JavaScript.
-
-**Stack**
-
-`Python` `Django` `DRF` `JavaScript` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔌 REST API Development
-
-Designing and developing scalable REST APIs for web and application-based systems.
-
-**Stack**
-
-`Django REST Framework` `FastAPI` `Python`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🗄️ Database Applications
-
-Building database-driven applications with efficient data management and relational database design.
-
-**Stack**
-
-`MySQL` `Django` `Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🐳 Cloud & Deployment
-
-Working with containerized applications and cloud deployment technologies.
-
-**Stack**
-
-`Docker` `GCP` `Git` `GitHub`
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -190,43 +244,50 @@ Working with containerized applications and cloud deployment technologies.
 
 <div align="center">
 
-### 🚀 Building Better Software
+🐍 **Advanced Python & Django**
 
-🐍 Advanced Python Development  
-🎯 Django & REST API Architecture  
-⚡ FastAPI Development  
-⚛️ React.js Applications  
-☁️ Cloud & GCP  
-🐳 Docker & Deployment  
-📊 Database Optimization  
-💡 Clean & Scalable Code
+&nbsp; • &nbsp;
+
+🔌 **REST API Architecture**
+
+&nbsp; • &nbsp;
+
+⚡ **FastAPI**
+
+<br><br>
+
+⚛️ **React.js**
+
+&nbsp; • &nbsp;
+
+🐳 **Docker**
+
+&nbsp; • &nbsp;
+
+☁️ **Google Cloud**
+
+&nbsp; • &nbsp;
+
+🗄️ **Database Optimization**
 
 </div>
 
 ---
 
-# 📚 Development Philosophy
-
-<div align="center">
-
-> **"Build it. Improve it. Scale it."**
-
-I believe in writing clean, maintainable and scalable code while continuously learning new technologies and solving real-world problems.
-
-</div>
-
----
-
-# 🌐 Let's Connect
+# 🌐 Professional Links
 
 <div align="center">
 
 <a href="https://github.com/Rajendradevloperofficial">
-<img src="https://img.shields.io/badge/GitHub-Rajendradevloperofficial-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-RAJENDRA%20KUMAR-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/rajendra-kumar-gupta-71a24819b/">
-<img src="https://img.shields.io/badge/LinkedIn-Rajendra%20Kumar%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-RAJENDRA%20KUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://agriyantram.com">
+<img src="https://img.shields.io/badge/Portfolio%20%2F%20Website-AGRIYANTRAM-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 </div>
@@ -235,20 +296,21 @@ I believe in writing clean, maintainable and scalable code while continuously le
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rajendradevloperofficial&label=PROFILE%20VISITORS&color=00C853&style=for-the-badge" />
+## 💡 Developer Philosophy
 
-</div>
+### **Build • Learn • Solve • Scale**
 
----
-
-<div align="center">
-
-## ⚡ Developer Mindset
-
-**Code 💻 • Learn 📚 • Build 🚀 • Deploy ☁️ • Improve 🔥**
+I enjoy transforming ideas into reliable software and continuously improving my development skills.
 
 <br>
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://img.shields.io/badge/Python-Developer-00C853?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-Developer-00C853?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/API-Engineer-00C853?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Full--Stack-Developer-00C853?style=flat-square&logo=react&logoColor=white">
+
+<br><br>
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
