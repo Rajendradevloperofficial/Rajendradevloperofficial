@@ -105,43 +105,69 @@ I focus on developing **clean, scalable, maintainable and production-ready appli
 
 <div align="center">
 
+<div align="center">
+
 # 🛠️ TECH SKILLS
 
 <br>
+
+<table>
+<tr>
+
+<td align="center" width="50%" valign="top">
 
 ### 🐍 Backend & API Development
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 
-`Python` `Django` `Django REST Framework` `FastAPI`
-
 <br><br>
+
+`Python` `Django` `DRF` `FastAPI`
+
+</td>
+
+<td align="center" width="50%" valign="top">
 
 ### ⚛️ Frontend Development
 
 <img src="https://skillicons.dev/icons?i=js,react,html,css" />
 
+<br><br>
 
 `JavaScript` `React.js` `HTML5` `CSS3`
 
+</td>
 
+</tr>
+
+<tr>
+
+<td align="center" width="50%" valign="top">
 
 ### 🗄️ Database & Data
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-
+<br><br>
 
 `MySQL` `PostgreSQL` `MongoDB` `SQL` `Database Design`
 
+</td>
 
-### ☁️ Cloud • DevOps • Development Tools
+<td align="center" width="50%" valign="top">
+
+### ☁️ Cloud • DevOps • Tools
 
 <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vscode" />
 
+<br><br>
 
+`Docker` `GCP` `Git` `GitHub` `VS Code`
 
-`Docker` `Google Cloud Platform` `Git` `GitHub` `VS Code`
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -151,70 +177,65 @@ I focus on developing **clean, scalable, maintainable and production-ready appli
 
 # ⚙️ DEVELOPMENT STACK
 
+<br>
+
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
 ### 🐍 BACKEND
 
 <br>
 
-Python
-
-Django
-
-Django REST Framework
-
-FastAPI
+🐍 Python  
+🎯 Django  
+🔌 Django REST Framework  
+⚡ FastAPI
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
 ### ⚛️ FRONTEND
 
 <br>
 
-JavaScript
-
-React.js
-
-HTML5
-
-CSS3
+🌐 JavaScript  
+⚛️ React.js  
+📄 HTML5  
+🎨 CSS3
 
 </td>
 
-<td align="center" width="25%">
+</tr>
+
+<tr>
+
+<td align="center" width="50%" valign="top">
 
 ### 🗄️ DATABASE
 
 <br>
 
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-SQL
+🐬 MySQL  
+🐘 PostgreSQL  
+🍃 MongoDB  
+🗃️ SQL
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
-### ☁️ DEVOPS
+### ☁️ DEVOPS & TOOLS
 
 <br>
 
-Docker
-
-GCP
-
-Git
-
-GitHub
+🐳 Docker  
+☁️ GCP  
+🔧 Git  
+🐙 GitHub  
+💻 VS Code
 
 </td>
 
