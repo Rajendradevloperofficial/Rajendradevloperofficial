@@ -1,16 +1,14 @@
 <div align="center">
 
-# 👋 RAJENDRA KUMAR GUPTA
+<img src="./assets/rajendra-github-header.gif" width="100%" alt="RAJENDRA KUMAR GUPTA - Python Full Stack Developer">
+
+<br><br>
 
 ### 🐍 Python Full Stack Developer | Backend & API Engineer
 
 **Django • DRF • FastAPI • React.js • MySQL • Docker • GCP**
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+DRF+%7C+FastAPI;React.js+%7C+JavaScript;MySQL+%7C+Docker+%7C+GCP;Building+Scalable+Web+Applications" />
-
-<br><br>
 
 <a href="https://github.com/Rajendradevloperofficial">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -23,6 +21,7 @@
 <a href="https://resumemitra.com">
 <img src="https://img.shields.io/badge/ResumeMitra-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
+
 <a href="https://jobexcello.com">
 <img src="https://img.shields.io/badge/Jobexcello-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
@@ -37,7 +36,11 @@
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Rajendradevloperofficial&label=PROFILE%20VISITORS&style=for-the-badge&color=00C853">
+
 </div>
+
+---
 
 ---
 
