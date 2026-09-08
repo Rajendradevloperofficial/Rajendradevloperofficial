@@ -141,42 +141,6 @@ I focus on creating **clean, scalable and production-ready applications**.
 
 </div>
 
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-🐍 **Advanced Python & Django**
-
-&nbsp; • &nbsp;
-
-🔌 **REST API Architecture**
-
-&nbsp; • &nbsp;
-
-⚡ **FastAPI**
-
-<br><br>
-
-⚛️ **React.js**
-
-&nbsp; • &nbsp;
-
-🐳 **Docker**
-
-&nbsp; • &nbsp;
-
-☁️ **Google Cloud**
-
-&nbsp; • &nbsp;
-
-🗄️ **Database Optimization**
-
-</div>
-
----
-
 # 🌐 Professional Links
 
 <div align="center">
