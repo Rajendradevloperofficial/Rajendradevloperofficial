@@ -113,8 +113,6 @@ I focus on developing **clean, scalable, maintainable and production-ready appli
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 
-<br><br>
-
 `Python` `Django` `Django REST Framework` `FastAPI`
 
 <br><br>
@@ -123,27 +121,25 @@ I focus on developing **clean, scalable, maintainable and production-ready appli
 
 <img src="https://skillicons.dev/icons?i=js,react,html,css" />
 
-<br><br>
 
 `JavaScript` `React.js` `HTML5` `CSS3`
 
-<br><br>
+
 
 ### 🗄️ Database & Data
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-<br><br>
+
 
 `MySQL` `PostgreSQL` `MongoDB` `SQL` `Database Design`
 
-<br><br>
 
 ### ☁️ Cloud • DevOps • Development Tools
 
 <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vscode" />
 
-<br><br>
+
 
 `Docker` `Google Cloud Platform` `Git` `GitHub` `VS Code`
 
